@@ -1,6 +1,7 @@
 body {
     color: white;
     background: black;
+    font-family: "Chakra Petch", sans-serif;
 
 }
 header {
@@ -9,4 +10,7 @@ header {
    font-size: 32xp;
    color: rgb(22, 97, 228)
 
+}
+h1 {
+    font-size: 40px;
 }
